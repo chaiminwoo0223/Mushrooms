@@ -1,2 +1,2 @@
-# Kaggle-Practice
-캐글 훈련
+# Mushrooms
+독버섯
